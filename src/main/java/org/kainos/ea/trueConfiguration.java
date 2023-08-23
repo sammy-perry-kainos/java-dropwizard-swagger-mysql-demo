@@ -8,6 +8,7 @@ import org.hibernate.validator.constraints.*;
 import javax.validation.Valid;
 import javax.validation.constraints.*;
 
+// Comment for information
 public class trueConfiguration extends Configuration {
     @Valid
     @NotNull
